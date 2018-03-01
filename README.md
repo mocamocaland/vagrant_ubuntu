@@ -1,0 +1,2 @@
+vagrantfileの設定ファイル
+ubuntu16を利用
